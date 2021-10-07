@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neeha19
-- 👀 I’m interested in making scalale applications
+- 👀 I’m interested in AWS
 - 🌱 I’m currently learning Data Structures and ALgorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
