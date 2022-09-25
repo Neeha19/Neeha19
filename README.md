@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Neeha19
+- 👋 Hi, I’m @Neeharika
 - 👀 I’m interested in AWS
-- 🌱 I’m currently learning Data Structures and ALgorithms
+- 🌱 I’m currently learning enterprise java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  adella.neeharika@gmail.com
 
 <!---
 Neeha19/Neeha19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
