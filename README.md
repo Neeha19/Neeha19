@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS
 - 🌱 I’m currently learning enterprise java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  adella.neeharika@gmail.com
+- 📫 How to reach me neeharika.adella1@gmail.com
 
 <!---
 Neeha19/Neeha19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
